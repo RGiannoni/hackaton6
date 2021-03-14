@@ -49,7 +49,7 @@ h1{
 }
 .Menu-lista{
     display: flex;
-    width: 600px;
+    width: 601px;
     justify-content: space-around;
 }
 
